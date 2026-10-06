@@ -19,24 +19,24 @@
 
 ## 📌 O Problema
 
-Muitas empresas demonstram necessidades reais de modernização e tecnologia por meio de **vagas de emprego abertas, notícias do mercado e comunicados oficiais**[cite: 8]. Contudo:
+Muitas empresas demonstram necessidades reais de modernização e tecnologia por meio de **vagas de emprego abertas, notícias do mercado e comunicados oficiais**. Contudo:
 
-* 🔍 **Sinais Espalhados:** As informações ficam dispersas na internet[cite: 8].
-* ⏳ **Análise Manual Lenta:** O levantamento consome muito tempo e esforço operacional[cite: 8].
-* 🎯 **Dificuldade de Priorização:** Equipes comerciais perdem tempo contatando *leads* pouco qualificados[cite: 8].
+* 🔍 **Sinais Espalhados:** As informações ficam dispersas na internet.
+* ⏳ **Análise Manual Lenta:** O levantamento consome muito tempo e esforço operacional.
+* 🎯 **Dificuldade de Priorização:** Equipes comerciais perdem tempo contatando *leads* pouco qualificados.
 
 ---
 
 ## 💡 A Solução
 
-O **LEADSENSE** automatiza o processo de inteligência comercial através de Inteligência Artificial[cite: 8]:
+O **LEADSENSE** automatiza o processo de inteligência comercial através de Inteligência Artificial:
 
 | Funcionalidade | Descrição |
 | :--- | :--- |
-| **🤖 Análise de Sinais Públicos** | Coleta e processa dados sobre setor, porte, situação e movimentações da empresa[cite: 8]. |
-| **📈 Lead Score Automatizado** | Atribui uma pontuação de 0 a 100 indicando o potencial de conversão[cite: 8, 11]. |
-| **💡 Recomendações Personalizadas** | Sugere a solução ideal da Avivatec (ex.: Cloud, IA, Cibersegurança)[cite: 8, 11]. |
-| **📊 Priorização Comercial** | Classifica os *leads* em níveis de prioridade para otimizar o trabalho de prospecção[cite: 8]. |
+| **🤖 Análise de Sinais Públicos** | Coleta e processa dados sobre setor, porte, situação e movimentações da empresa. |
+| **📈 Lead Score Automatizado** | Atribui uma pontuação de 0 a 100 indicando o potencial de conversão. |
+| **💡 Recomendações Personalizadas** | Sugere a solução ideal da Avivatec (ex.: Cloud, IA, Cibersegurança). |
+| **📊 Priorização Comercial** | Classifica os *leads* em níveis de prioridade para otimizar o trabalho de prospecção. |
 
 ---
 
@@ -52,27 +52,27 @@ O **LEADSENSE** automatiza o processo de inteligência comercial através de Int
 │  Abordagem da Equipe   │ ◄─── │  Lead Score &          │ ◄────────────────┘
 │  Comercial             │      │  Recomendação          │
 └────────────────────────┘      └────────────────────────┘
-```[cite: 8, 10]
+```
 
 ---
 
 ## 🎯 Público-Alvo
 
-O LEADSENSE foi projetado especificamente para impulsionar a performance de[cite: 9]:
+O LEADSENSE foi projetado especificamente para impulsionar a performance de:
 
-* 💼 **Equipes de Vendas & Pré-Vendas (SDR)**[cite: 9]
-* 📈 **Business Development & Inteligência de Mercado**[cite: 9]
-* 📣 **Equipes de Marketing**[cite: 9]
-* 👔 **Gestores Comerciais**[cite: 9]
+* 💼 **Equipes de Vendas & Pré-Vendas (SDR)**
+* 📈 **Business Development & Inteligência de Mercado**
+* 📣 **Equipes de Marketing**
+* 👔 **Gestores Comerciais**
 
 ---
 
 ## 🖥️ Módulos e Interface
 
-- 📊 **Dashboard & Ranking:** Visão geral de métricas, volume de *leads* e ranking das melhores oportunidades[cite: 11].
-- 🔍 **Análise e Diagnóstico:** Exibição detalhada por empresa, com *score*, diagnóstico e sugestão de abordagem[cite: 11].
-- 📝 **Cadastro de Empresas:** Módulo para inserção de novas empresas na base de análise[cite: 11].
-- ⚡ **Feed de Insights:** Alertas em tempo real sobre contratações, fusões e novidades de mercado das empresas[cite: 11].
+- 📊 **Dashboard & Ranking:** Visão geral de métricas, volume de *leads* e ranking das melhores oportunidades.
+- 🔍 **Análise e Diagnóstico:** Exibição detalhada por empresa, com *score*, diagnóstico e sugestão de abordagem.
+- 📝 **Cadastro de Empresas:** Módulo para inserção de novas empresas na base de análise.
+- ⚡ **Feed de Insights:** Alertas em tempo real sobre contratações, fusões e novidades de mercado das empresas.
 
 ---
 
@@ -80,11 +80,11 @@ O LEADSENSE foi projetado especificamente para impulsionar a performance de[cite
 
 | Nome | RA |
 | :--- | :--- |
-| **Samuel Barbosa** | 2211653 |[cite: 7]
-| **Pedro H.** | 2259415 |[cite: 7]
-| **Bruno** | 2194173 |[cite: 7]
-| **Diego** | 2195500 |[cite: 7]
-| **Jefferson** | 2259433 |[cite: 7]
+| **Samuel Barbosa** | 2211653 |
+| **Pedro H.** | 2259415 |
+| **Bruno** | 2194173 |
+| **Diego** | 2195500 |
+| **Jefferson** | 2259433 |
 
 ---
 
